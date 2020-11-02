@@ -13,6 +13,7 @@ namespace ClassObjects_Eg
         string degree;
         void DisplayDetails()
         {
+            Console.WriteLine("Hey I have made some changes");
             Console.WriteLine("Name:{0}||Age:{1}||Degree:{2}", Name, age, degree);
         }
         static void Main()
