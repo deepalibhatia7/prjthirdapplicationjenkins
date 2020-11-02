@@ -27,6 +27,7 @@ namespace ClassObjects_Eg
     {
         static void Main()
         {
+            Console.WriteLine("Hello , This is Deepali");
             int id;
             string moviename;
             Movie movie = new Movie(101, "Dangal");
