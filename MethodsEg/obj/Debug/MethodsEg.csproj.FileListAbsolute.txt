@@ -1,0 +1,7 @@
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 3\CsharpDay3\MethodsEg\obj\Debug\MethodsEg.csprojAssemblyReference.cache
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 3\CsharpDay3\MethodsEg\obj\Debug\MethodsEg.csproj.CoreCompileInputs.cache
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 3\CsharpDay3\MethodsEg\bin\Debug\MethodsEg.exe.config
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 3\CsharpDay3\MethodsEg\bin\Debug\MethodsEg.exe
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 3\CsharpDay3\MethodsEg\bin\Debug\MethodsEg.pdb
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 3\CsharpDay3\MethodsEg\obj\Debug\MethodsEg.exe
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 3\CsharpDay3\MethodsEg\obj\Debug\MethodsEg.pdb

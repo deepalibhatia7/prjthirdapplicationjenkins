@@ -1,0 +1,7 @@
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 3\CsharpDay3\ClassObjects_Eg\bin\Debug\ClassObjects_Eg.exe.config
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 3\CsharpDay3\ClassObjects_Eg\bin\Debug\ClassObjects_Eg.exe
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 3\CsharpDay3\ClassObjects_Eg\bin\Debug\ClassObjects_Eg.pdb
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 3\CsharpDay3\ClassObjects_Eg\obj\Debug\ClassObjects_Eg.csproj.CoreCompileInputs.cache
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 3\CsharpDay3\ClassObjects_Eg\obj\Debug\ClassObjects_Eg.exe
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 3\CsharpDay3\ClassObjects_Eg\obj\Debug\ClassObjects_Eg.pdb
+C:\Users\Deepali\Desktop\LTI\TRAININGS\GET.873\C#\DAY 3\CsharpDay3\ClassObjects_Eg\obj\Debug\ClassObjects_Eg.csprojAssemblyReference.cache
