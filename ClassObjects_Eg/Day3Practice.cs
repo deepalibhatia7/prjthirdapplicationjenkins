@@ -55,7 +55,7 @@ namespace ClassObjects_Eg
             for (int i = 0; i < size; i++)
             {
                 coursedetails[i].DisplayDetails();
-                Console.ReadLine("some Changes");
+                Console.WriteLine("some Changes");
             }
             Console.Read();
         }
